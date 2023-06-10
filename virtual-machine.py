@@ -4,3 +4,5 @@
 - machine_name=dev
 - account=dev
 - region=mumbai01
+- cpu=2
+- memory=4
