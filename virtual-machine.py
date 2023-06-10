@@ -3,6 +3,6 @@
 - no_of_machines=1
 - machine_name=dev
 - account=dev
-- region=mumbai01
+- region=us-east-1
 - cpu=2
 - memory=4
